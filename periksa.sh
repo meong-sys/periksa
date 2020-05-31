@@ -7,10 +7,10 @@ h="\033[32;1m"
 clear
 function banner(){
 		echo -e "\t${p}_________________________"
-		echo -e "\t${h}  TOOLS SCANNING PROXY"
-		echo -e "\t${p}   Author${m}: ${p}KumpulanRemaja "
-		echo -e "\t${p}    KumpulanRemaja.com"
-		echo -e "\t${p}    Recode bye RusmanaID "
+		echo -e "\t${h}  TOOLS PERIKSA PROXY"
+		echo -e "\t${p}   Author${m}: ${p}ANON "
+		echo -e "\t${p}    ANON-SKC"
+		echo -e "\t${p}    ANON SKC "
 		echo -e "\t${p}_________________________"
 
 }
